@@ -1,3 +1,4 @@
+##after sourcing this file you should call plot1() on console to make plot1 graph
 plot1<-function (){
 
 ##reading the data, and modfiying na.strings to "?"
